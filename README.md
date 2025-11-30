@@ -104,7 +104,7 @@ If you don't have a GPU on your local machine, you can run the entire project on
 Open a new Colab Notebook and run:
 
 ```bash
-!git clone https://github.com/<your-username>/FashionMNIST-MLP.git
+!git clone https://github.com/Har02sh/fashion-mnist-mlp-pytorch.git
 %cd FashionMNIST-MLP
 
 !pip install -r requirements.txt
