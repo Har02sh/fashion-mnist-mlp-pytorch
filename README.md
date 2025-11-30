@@ -119,7 +119,7 @@ Open a new Colab Notebook and run:
 Clone repository:
 
 ```bash
-git clone https://github.com/<your-username>/FashionMNIST-MLP.git
+git clone https://github.com/Har02sh/FashionMNIST-MLP.git
 cd FashionMNIST-MLP
 ```
 
